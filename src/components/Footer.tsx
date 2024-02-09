@@ -4,7 +4,7 @@ import Twitter from "@/Images/twitter.svg"
 const Footer = () => {
   return (
     <footer className="bg-primary text-white mt-10">
-       <section className="grid gap-6 w-[90%] md:w-[95%] px-4 md:px-6 xl:px-12 py-[3rem] mx-auto ">
+       <section className="grid gap-6 w-[90%] md:w-[95%] px-4 md:px-6 xl:px-8 py-[3rem] mx-auto ">
         <div className="grid gap-6 md:flex justify-between">
             <div className="lg:w-[35%]">
                 <Image src={Logo} alt="logo-img"/>
